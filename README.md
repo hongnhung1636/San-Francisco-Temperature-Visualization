@@ -10,8 +10,8 @@ DEMO: www.thehongle.com/bigdata/Climatological.html
 
 
 
-This is project for CS286 - Big Data
+This is project for CS286 - Big Data under
 Prof. James Casaletto
-james.casaletto@gmail.com
 
 author: Hong Le 
+Fall 2015
