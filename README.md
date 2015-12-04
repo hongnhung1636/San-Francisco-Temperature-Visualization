@@ -4,7 +4,7 @@ Visualization of San Francisco Airport Area 's Climatological from 2005 to 2014 
 
 it's included tempature, precipitation, HDD, CDD
 
-DEMO: [thehongle.com/bigdata/Climatological.html]
+DEMO: www.thehongle.com/bigdata/Climatological.html
 
 ![ScreenShot](https://raw.githubusercontent.com/hongnhung1636/San-Francisco-Temperature-Visualization/master/img/screenshot.png)
 
